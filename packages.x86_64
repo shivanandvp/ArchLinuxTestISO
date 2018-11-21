@@ -65,6 +65,7 @@ wvdial
 xl2tpd
 
 lightdm-gtk-greeter
+lightdm-webkit2-greeter
 budgie-desktop
 xorg-drivers
 xorg-server
