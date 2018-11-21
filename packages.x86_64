@@ -64,12 +64,20 @@ wpa_actiond
 wvdial
 xl2tpd
 
-base-devel
 lightdm-gtk-greeter
-virtualbox-guest-utils
 budgie-desktop
 xorg-drivers
 xorg-server
 xorg-xinit
 xorg-twm
 xterm
+
+base-devel
+gedit
+nautilus
+tilix
+chromium
+gnome-disk-utility
+virtualbox-guest-utils
+
+
